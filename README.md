@@ -30,7 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://easybanklegit.herokuapp.com
+- Solution URL: https://github.com/MagicAces/Easybank-Landing-Page/
+- Live Site URL: https://easybankpage.cyclic.app/
 
 ## My process
 
